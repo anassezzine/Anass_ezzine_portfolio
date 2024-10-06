@@ -1,39 +1,49 @@
-# Attractive Advance Portfolio Website
-## _Chatting Bot Like Design (Whatsapp like interface)_
+# Anass Ezzine's Interactive Portfolio Website
+## _Chat-like Interface Design_
 
-
-- [Running Site](https://vinayak-09.github.io/)
-
-[![N|Solid](images/demo.gif)](https://vinayak-09.github.io/)
 
 ## Technologies Used
 
 - HTML
-- Javascript
+- JavaScript
 - CSS
 
 ## Features
 
-- Whatsapp like interface
-- Pleasant sounds
-- Lightweighted
+- WhatsApp-like chat interface
+- Interactive sound effects
+- Lightweight design
 - Social media links
-- Download resume.
+- Downloadable CV
 - Map support for address
-- Random replies for hi, bye, i love you.
+- Dynamic responses to various queries
 
-<br><br>
+## About Me
 
-## Connect with Me: 
+I'm a 4th year computer engineering student at Polytechnic University School of Marseille, currently in a work-study program. I'm passionate about full-stack development and always eager to learn new technologies.
+
+## My Skills
+
+- Programming Languages: Python, Java, Kotlin, C, C++, JS/TS
+- Frontend & Backend Development
+- Frameworks: Angular, Node.js, React, NextJS, Tailwind, Swing, Quarkus, Express.js
+- Databases: MySQL, MongoDB, SQLite
+- Tools: AWS, Postman
+
+## Projects
+
+1. Medical Prescription Management Platform
+2. Client Management Application
+3. Database Management Application for IT History
+4. RPG Game in Java
+5. Java Swing Project with MySQL Database
+
+## Connect with Me:
+
+[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/anass-ezzine-849384241/)
+
+[![Email](images/gmail.svg)](mailto:ezzin.anass@gmail.com)
 
 <br>
 
-[![N|Solid](images/telegram.svg)](https://t.me/vinayak_09)
-
-
-[![N|Solid](images/instagram.svg)](https://instagram.com/vinayak_patil_09)
-
-
-<br>
-
-**Free Software, Hell Yeah!**
+**Feel free to explore my portfolio and get in touch!**
